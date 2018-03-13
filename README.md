@@ -1,2 +1,3 @@
 # star-wars-quotes
-Followed a Node.js, MongoDB, Express tutorial
+Building a Simple CRUD Application with NodeJS, Express and MongoDB.
+Tutorial available on https://zellwk.com/blog/crud-express-mongodb/
